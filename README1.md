@@ -42,8 +42,8 @@ The **IR sensor continuously emits and detects infrared radiation**.
 
 **Result**
 
-![][image1]
 
-[image1]: [<img width="1280" height="720" alt="light" src="https://github.com/user-attachments/assets/b7c0fde2-a0cf-4593-ae79-ad4aacd60795" />]
+
+[image1]: <img width="1280" height="720" alt="light" src="https://github.com/user-attachments/assets/b7c0fde2-a0cf-4593-ae79-ad4aacd60795" />
 
 
